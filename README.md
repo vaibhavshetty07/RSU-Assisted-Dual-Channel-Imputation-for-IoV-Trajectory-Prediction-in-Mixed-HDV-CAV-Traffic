@@ -14,7 +14,6 @@ SUMO IOV/
 │   └── penetration_30/
 │
 ├── check_cav_hdv_none.py
-├── delete_sfm_files.py
 ├── diagnostics.py
 ├── explore_dataset.py
 ├── inject_sfm.py
